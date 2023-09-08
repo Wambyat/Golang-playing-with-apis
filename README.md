@@ -1,2 +1,2 @@
 # Golang-playing-with-apis
-This is an only repo from when i was trying Go
+This is an old repo from when i was trying Go
